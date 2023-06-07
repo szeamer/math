@@ -1,0 +1,14 @@
+body{
+
+}
+
+h1, h2, div{
+    margin:auto;
+    max-width: 1000pt;
+    text-align: center;
+}
+
+embed{
+    width: 100%;
+    min-height: 500pt;
+}
